@@ -162,7 +162,7 @@ function display(name, cash, news, bio){
     let results = 
     `
     <div id="imageContainer">
-    <img src="seal.PNG" alt="Presidential Seal" height="200" width="200">
+    <img src="seal.png" alt="Presidential Seal" height="200" width="200">
     </div>
 
     <p></p>
